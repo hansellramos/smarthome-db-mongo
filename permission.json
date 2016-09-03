@@ -1,0 +1,9 @@
+{"_id":{"$oid":"57a0f94d0ec50edc1554d802"},"name":"User List","reference":"userList","description":"Permite listar los diferentes usuarios en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d803"},"name":"Profile List","reference":"profileList","description":"Permite listar los diferentes perfiles en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d80a"},"name":"User Creation","reference":"userCreate","description":"Permite crear usuarios en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d80b"},"name":"Profile Creation","reference":"profileCreate","description":"Permite crear perfiles en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d811"},"name":"User Update","reference":"userUpdate","description":"Permite modificar usuarios en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d812"},"name":"Profile Update","reference":"profileUpdate","description":"Permite modificar perfiles en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d81a"},"name":"Profile Deletion","reference":"profileDelete","description":"Permite eliminar perfiles en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d81b"},"name":"Users reset password","reference":"userResetPassword","description":"Permite reiniciar la clave de los usuarios en el sistema"}
+{"_id":{"$oid":"57a0f94d0ec50edc1554d819"},"name":"User Deletion","reference":"userDelete","description":"Permite eliminar usuarios en el sistema"}
